@@ -22,4 +22,14 @@ Dictionaries
 * Ranges
 * Dictionaries
 
+## Intermediate Level
+
+Intermediate level Python programming concepts
+
+* If, Else and Elif Conditional Checks
+* For Loops
+* While Loops
+* Break, Continue and Pass
+* Nesting in Loops
+* Exceptions handling basics
 
