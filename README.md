@@ -15,5 +15,11 @@ These are the fundamental data types in python - Strings, Numbers, Booleans, Lis
 Dictionaries
 
 * Strings
+* Numbers and Booleans
+* Lists
+* Sets 
+* Tuples
+* Ranges
+* Dictionaries
 
 
